@@ -97,3 +97,5 @@ Copyright 2014 Jussi Virtanen and [contributors][].
   [contributors]: https://github.com/paritytrading/nassau/graphs/contributors
 
 Released under the Apache License, Version 2.0. See `LICENSE.txt` for details.
+
+[![FOSSA Status](https://app.fossa.com/api/projects/custom%2B15286%2Fgit%40github.com%3AHotmart-Org%2Fhot-analytics.git.svg?type=large)](https://app.fossa.com/projects/custom%2B15286%2Fgit%40github.com%3AHotmart-Org%2Fhot-analytics.git?ref=badge_large)
